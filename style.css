@@ -1,0 +1,40 @@
+* {
+  font-family: "Work Sans", sans-serif;
+}
+
+body {
+  background-color: grey;
+}
+
+#frm {
+  border: 0.5pc green double;
+  padding: 20px;
+  background-color: greenyellow;
+}
+
+#frm #txt {
+  display: block;
+  width: 99%;
+  padding: 0.6pc;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#hh {
+  text-transform: uppercase;
+}
+
+#frm label,
+#sub,
+#gg {
+  font-size: x-large;
+}
+
+#sub,
+#gg {
+  padding: 10px;
+  width: 55%;
+  align-self: center;
+}
